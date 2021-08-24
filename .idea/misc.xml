@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Second-Service/pom.xml" />
         <option value="$PROJECT_DIR$/First-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/API-Gateway-Service/pom.xml" />
       </list>
     </option>
   </component>
